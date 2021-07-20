@@ -12,3 +12,6 @@
 
 ![Screen Shot 2021-07-06 at 08 38 02](https://user-images.githubusercontent.com/64879807/124529882-a5217b80-de35-11eb-86c3-a68233700675.png)
 
+- [#80 Piano](https://cssbattle.dev/play/80) ([code](https://github.com/trimn-1012/Css-battle-monthly-report-july/blob/main/80-Piano.html))
+
+![Screen Shot 2021-07-20 at 08 57 59](https://user-images.githubusercontent.com/64879807/126250685-293e1c84-2173-42b4-96b4-dbb59a48ea43.png)
