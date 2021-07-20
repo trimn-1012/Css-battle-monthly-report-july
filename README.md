@@ -15,3 +15,7 @@
 - [#80 Piano](https://cssbattle.dev/play/80) ([code](https://github.com/trimn-1012/Css-battle-monthly-report-july/blob/main/80-Piano.html))
 
 ![Screen Shot 2021-07-20 at 08 57 59](https://user-images.githubusercontent.com/64879807/126250685-293e1c84-2173-42b4-96b4-dbb59a48ea43.png)
+
+- [#52 Break the Chain](https://cssbattle.dev/play/52) ([code](https://github.com/trimn-1012/Css-battle-monthly-report-july/blob/main/52-Break-the-Chain.html))
+
+![Screen Shot 2021-07-20 at 09 29 28](https://user-images.githubusercontent.com/64879807/126253033-ffbaf5ca-9e7a-42dd-90f4-0b6d1ae07f55.png)
