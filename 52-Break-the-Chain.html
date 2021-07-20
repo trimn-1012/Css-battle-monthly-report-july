@@ -1,0 +1,91 @@
+<div id="c">
+  <div class="t">
+  <p></p>
+  <div></div>
+</div>
+<div class="t">
+  <p></p>
+  <div></div>
+</div>
+<div class="t">
+  <p></p>
+  <div></div>
+</div>
+</div>
+<div id="c2">
+  <div class="t">
+  <p></p>
+  <div></div>
+</div>
+<div class="t">
+  <p></p>
+  <div></div>
+</div>
+<div class="t">
+  <p></p>
+  <div></div>
+</div>
+  <div class="t">
+  <p></p>
+  <div></div>
+</div>
+</div>
+<style>
+  body {
+    padding: 0;
+    margin: 0;
+    background: #6592CF;
+    display: flex;
+    align-items: center;
+  }
+  #c, #c2 {
+    display: flex;
+  }
+  #c {
+    margin-right: 15px;
+  }
+  #c .t:nth-child(1):after, #c .t:nth-child(3):after {
+    content: '';
+    width: 40px;
+    height: 40px;
+    background: #EEB850;
+    border-radius: 50%;
+    position: absolute;
+    top: 0;
+    z-index: -1;
+  }
+  #c .t:nth-child(2):after {
+    content: '';
+    width: 60px;
+    height: 60px;
+    background: #EEB850;
+    border-radius: 50%;
+    position: absolute;
+    top: -20px;
+    z-index: -1;
+  }
+  .t {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 10px;
+    margin-left: 40px;
+  }
+  .t:not(:first-child) {
+    margin-left: 25px;
+  }
+  .t div {
+    width: 10px;
+    height: 50px;
+    background: #243D83;
+  }
+  .t p {
+    margin: 0;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    background: #243D83;
+    transform: translateY(10px);
+  }
+</style>
